@@ -1,6 +1,3 @@
-//memoization
-//   js object, keys will be arg to fn, value will be the return value
-
 //Fibanachi
 
 const fib = (n, memo = {}) => {
